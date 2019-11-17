@@ -2190,5 +2190,3 @@ const data = [
     low: 45
   }
 ];
-
-module.exports = data;
