@@ -6,6 +6,7 @@
 - [d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic)
 - [observable-folk](https://observablehq.com/d/295773f8e4142619)
 - [d3-shape](https://github.com/d3/d3-shape)
+- [example-axis](https://www.d3-graph-gallery.com/graph/custom_axis.html)
 
 ## sudo code
 
